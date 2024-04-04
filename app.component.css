@@ -1,0 +1,25 @@
+/*
+*/
+
+.active{ 
+    background: 'light-gray' 
+}
+
+mat-slider {
+    width: 300px;
+  }
+
+  .mat-mdc-radio-button ~ .mat-mdc-radio-button {
+    margin-left: 16px;
+  }
+
+  h1{
+    font-size: 25px;
+    text-align: center;
+  }
+
+  mat-card{
+    text-align: center;
+  }
+
+ 
